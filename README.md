@@ -1,7 +1,8 @@
 # green-baku-html
 
 <h3>Overview</h3>
-<p>Agency Website Named Green Baku. Including header and footer ,there are <b>Ten</b> section  in this project.</p>
+
+<p>I am very exited about the project.It was my first project using html,css,js,Bootstrap,JS plugin etc. Set lot's of thing here like preloader slide,filter plugin,Slick slider plugin,Count down plugin.there are more Ten section in this project.</p>
 <div></div> <br>
 <span>See live demo : https://monirruuddin.github.io/green-baku-html/ </span>
 
