@@ -18,11 +18,10 @@
 </ul>
 <h3>JS Plugins I have used.. </h3>
 <ul>
-  <li>HTMl</li>
-  <li>CSS</li>
-  <li>JQUERY</li>
-  <li>JAVASCRIPT</li>
-  <li>BOOTSTRAP 4.1</li>
+  <li>Slick slider</li>
+  <li>counter</li>
+  <li>Filterz</li>
+  <li>Preloader</li>
 </ul>
 
 <h3>Full View</h3>
