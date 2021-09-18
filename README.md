@@ -7,7 +7,7 @@
 <span>See live demo : https://monirruuddin.github.io/green-baku-html/ </span>
 
 <h3>Using tools</h3>
-_HTMl _CSS _JQUERY _JAVASCRIPT _BOOTSTRAP 4.1 
+__HTMl __CSS __JQUERY __JAVASCRIPT __BOOTSTRAP 4.1 
 
 <ul>
   <li>Local Sign Up</li>
