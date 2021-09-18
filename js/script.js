@@ -1,7 +1,7 @@
 $(function ($) {
     // preloader add
     $(window).on('load', function () {
-        $('.preloader_gif').delay(400).fadeOut(600);
+        $('.preloader_gif').delay(100).fadeOut(200);
     });
 
 
