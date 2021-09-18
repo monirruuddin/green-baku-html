@@ -16,7 +16,7 @@
   <li>JAVASCRIPT</li>
   <li>BOOTSTRAP 4.1</li>
 </ul>
-<h3> Technology I have used.. </h3>
+<h3>JS Plugins I have used.. </h3>
 <ul>
   <li>HTMl</li>
   <li>CSS</li>
