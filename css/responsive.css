@@ -1,0 +1,280 @@
+@media(min-width:992px) {
+    .logo {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        border-left: 1px solid;
+        border-right: 1px solid;
+        padding: 5px 20px;
+    }
+
+    #zakkashNav ul li a {
+        padding-top: 19px;
+        padding-bottom: 15px;
+    }
+
+    .iconnnn {
+        color: #fff!important;
+        border: none;
+    }
+}
+
+@media(max-width:575px) {
+
+    .iconnnn {
+        color: #fff !important;
+        border: none;
+    }
+
+    .about_item_left {
+        text-align: left;
+    }
+
+    .about_item_left h2 {
+        font-size: 18px;
+    }
+
+
+
+
+    .about_hr,
+    #banner .slick-dots li,
+    .banner_content p,
+    .banner_content a {
+        display: none;
+    }
+
+    .banner_content h2 {
+        font-size: 20px !important;
+        padding-bottom: 0px;
+
+    }
+
+    #zakkashNav {
+        background: #ddd;
+    }
+
+    #zakkashNav ul li a {
+        font-size: 13px;
+        padding: 5px 0;
+        text-align: center;
+        color: #000;
+    }
+
+    .counter_item i {
+        font-size: 30px;
+        margin-bottom: 10px;
+
+
+    }
+
+    .counter_item h2 {
+
+        font-size: 18px;
+
+    }
+
+    .counter_item p {
+        font-size: 11px !important;
+
+    }
+
+    .counter_image {
+        padding: 30px 0;
+    }
+
+    .work_menu ul li {
+        height: 30px;
+        width: 120px;
+        line-height: 30px;
+        font-size: 12px;
+        margin-bottom: 15px;
+
+    }
+
+    .feedback_content {
+        width: 300px;
+        margin: auto;
+    }
+
+    .feedback_item h6 {
+        display: none;
+    }
+
+    .cards {
+        margin: 20px 0;
+    }
+
+    .footer_mid:after {
+        display: none;
+
+    }
+
+    .footer_left,
+    .footer_mid,
+    .footer_social_icon {
+        margin-bottom: 20px;
+    }
+
+    .about_item_left i {
+        margin: 40px 25px 0 0;
+        display: block;
+        margin-bottom: 15px;
+
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+
+    .about_hr,
+    #banner .slick-dots li,
+    .banner_content a {
+        display: none;
+    }
+
+    .iconnnn {
+        color: #fff !important;
+        border: none;
+    }
+
+    #zakkashNav {
+        background: #ddd;
+    }
+
+    #zakkashNav ul li a {
+        font-size: 13px;
+        padding: 5px 0;
+        text-align: center;
+        border: none;
+        color: #000;
+    }
+
+    .banner_content h2 {
+        font-size: 20px !important;
+        padding-top: 38px;
+
+    }
+
+    .about_item_left {
+        text-align: left;
+    }
+
+    .work_menu ul li {
+        margin-bottom: 10px;
+    }
+
+    .services_item i {
+        width: 50px;
+        height: 50px;
+        margin-top: 40px;
+        border-bottom: 1px solid #ddd;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .services_item:hover i {
+
+        line-height: 50px;
+    }
+
+    .feedback_content {
+        width: 450px;
+        text-align: center;
+
+    }
+
+    .feedback_item h6 {
+        margin: 0;
+    }
+
+    .feedback_comment h6 {
+
+        margin: 50px;
+
+    }
+
+    .cards {
+        margin-bottom: 10px;
+    }
+
+    .contact_left_map {
+        width: 370px;
+        margin: auto;
+
+    }
+
+    .contact_right_form {
+        width: 470px;
+
+    }
+
+    .iconnnn {
+        color: #fff !important;
+        border: none;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .iconnnn {
+        color: #fff !important;
+        border: none;
+    }
+
+    .about_hr {
+        display: none;
+    }
+
+    .about_item_left {
+        text-align: left;
+    }
+
+
+    .work_menu ul li {
+
+        margin: 3px;
+
+        height: 30px;
+        width: 90px;
+        line-height: 30px;
+        text-align: center;
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+
+    .skill_left_content {
+        width: 470px;
+        padding: 30px 30px 30px 0;
+        margin: auto;
+
+    }
+
+    .feedback_content {
+        width: 600px;
+
+    }
+
+    .feedback_item {
+
+        padding: 20px 0px 10px 10px;
+        margin: 20px 0;
+
+    }
+
+    .feedback_item h6 {
+        margin: 0;
+    }
+
+    .footer_left,
+    .footer_mid,
+    .footer_social_icon,
+    .cards {
+        margin-bottom: 10px;
+
+    }
+
+
+
+}
+
+@media (min-width:992px) and (max-width:1199px) {}
